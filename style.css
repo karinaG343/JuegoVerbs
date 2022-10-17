@@ -1,0 +1,19 @@
+#verbs-container{
+    margin: 0 35%;
+}
+
+.verbs-aswer{
+    display: block;
+}
+
+.rightAnwer, .rightAnwer:hover{
+    background-color: #6ab04c;
+    border-color: #6ab04c;
+    color: #ffff;
+}
+
+.wrongAswer, .wrongAswer:hover {
+    background-color: #b33030;
+    border-color: #b33030;
+    color: #ffff;
+}
